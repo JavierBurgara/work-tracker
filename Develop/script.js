@@ -39,7 +39,7 @@
         $(this).toggleClass("future", blockHour > currentHour);
       });
     }
-  // The  function below will save the user's input in a textarea to localStorage - only when the corresponding save button has been clicked.
+  // The function below will save the user's input in a textarea to localStorage - only when the corresponding save button has been clicked.
     function textEntry() {
       $('.saveBtn').on('click', function() {
         const key = $(this).parent().attr('id');
@@ -67,8 +67,7 @@
       $(this).children('.description').val(value);
     });
   
-    // Please note: this is my favourtie part of the module - I absolutly love the display of current date and time especially 
-    // since the the time referesed every second - you can find this among the header of the page!
+    // this is the format you need to get the display to show the time in the header
     function updateTime() {
       const dateElement = $('#date');
       const timeElement = $('#time');
@@ -82,6 +81,6 @@
     textEntry();                
     refreshColor();
     // This will update the time once per second for the current time once per second using setInterval() 
-    // giving my beautiful diplay header a live time hours, minues and seconds coutner
+    // giving the display header a live time hours, minues and seconds coutner
     setInterval(updateTime, 1000);
   });
