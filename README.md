@@ -1,7 +1,7 @@
 # Work Day Scheduler Starter Code
 
 # Description
-How to use java-script,html and css creating a quiz. making sure the quiz has a timer and everytime you answer right or wrong then timer is subtracted. Making sure your able to click the high-scores and able to leave initials in the inbox and able to save all scores or clear scores.
+this weekly planner helps you schedule events from 9am-5pm and lets you know whats happening from hour to hour with color coded colors, going from red,green,gray. Red being on that hour and green being hour hasnt come up yet and gray being the past hour. You can save events with the save button at the right which can help you coordinate the next day or current day.
 
 # Installation
 Java-Script,Html,CSS
