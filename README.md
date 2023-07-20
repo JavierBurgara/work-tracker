@@ -19,5 +19,5 @@ N/A
 # Link to website
 https://javierburgara.github.io/work-tracker/
 
-Deployed Image of Website
+# Deployed Image of Website
 ![05-third-party-apis-homework-demo](https://github.com/JavierBurgara/Coding-Quiz/assets/135621096/b973d16b-ba3c-41e6-898b-7d01e0eb0f47)
