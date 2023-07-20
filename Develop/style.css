@@ -36,7 +36,7 @@ textarea {
 }
 
 .present {
-  background-color: #ff6961;
+  background-color: #f1190e;
   color: white;
 }
 
@@ -57,3 +57,12 @@ textarea {
   font-size: 20px;
   transition: all 0.3s ease-in-out;
 }
+
+/* media query for smaller screens */
+
+@media screen and (max-width: px) {
+
+
+
+ }
+
